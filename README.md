@@ -8,6 +8,8 @@ I'm a **Senior Software Engineer** with over 6 years of experience spanning **We
 - 💻 I love creating interactive apps and immersive experiences, especially with **3D technologies** like **THREE.js** and **D3.js**.
 - 🎨 I enjoy blending technology and art to bring creative ideas to life.
 - 📍 Currently based in **Bangkok, Thailand**.
+- 📝 [View my full CV](https://github.com/svnnynior/svnnynior/blob/main/assets/cv.pdf)
+
 
 ---
 
@@ -51,7 +53,8 @@ I'm a **Senior Software Engineer** with over 6 years of experience spanning **We
 
 ### 📫 How to Reach Me
 - 📧 **Email**: pitchayut.jr@gmail.com  
-- 💼 **LinkedIn**: [Pitchayut Chitsinpchayakun](https://www.linkedin.com/in/pitchayut-chitsinpchayakun-647b73161/)  
+- 💼 **LinkedIn**: [Pitchayut Chitsinpchayakun](https://www.linkedin.com/in/pitchayut-chitsinpchayakun-647b73161/)
+
 
 ---
 
