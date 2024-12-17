@@ -1,5 +1,4 @@
 ## 👋 Hi there, I'm **Ju**~  
-**Welcome to my GitHub profile!**  
 I'm a **Senior Software Engineer** with over 6 years of experience spanning **Web and Mobile Development**, **Machine Learning**, **Data Engineering**, **DevOps**, and more.  
 
 ---
@@ -9,7 +8,6 @@ I'm a **Senior Software Engineer** with over 6 years of experience spanning **We
 - 🎨 I enjoy blending technology and art to bring creative ideas to life.
 - 📍 Currently based in **Bangkok, Thailand**.
 - 📝 [View my full CV](https://github.com/svnnynior/svnnynior/blob/main/assets/cv.pdf)
-
 
 ---
 
@@ -54,7 +52,6 @@ I'm a **Senior Software Engineer** with over 6 years of experience spanning **We
 ### 📫 How to Reach Me
 - 📧 **Email**: pitchayut.jr@gmail.com  
 - 💼 **LinkedIn**: [Pitchayut Chitsinpchayakun](https://www.linkedin.com/in/pitchayut-chitsinpchayakun-647b73161/)
-
 
 ---
 
