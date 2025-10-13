@@ -28,7 +28,7 @@ I'm a **Software Engineer** with over 6 years of experience spanning **Web and M
 |-----------------------------------|------------------------------------------------------|------------------------------|
 | [**Parliamentdle**](https://parliamentdle.fun/) | A daily guessing game based on TH Parliament Open Data   | Typescript, Next.js            |
 | [**Cosmic Mutelu**](https://cosmicmutelu.com/) | A website to facilitate online tarot reading experience  | React, Typescript            |
-| [**TEDxCharoenkrung Website**](https://astro-by-mutelu-jubilee.pages.dev/) | An official website for TEDxCharoenkrung 2021 | Next.js, Wordpress CMS, Vue.js         |
+| [**TEDxCharoenkrung Website**](https://www.tedxcharoenkrung.com/) | An official website for TEDxCharoenkrung 2021 | Next.js, Wordpress CMS, Vue.js         |
 | [**React Visibility Hook**](https://svnnynior.github.io/react-visibility-tracking-hooks/) | NPM package for tracking web elements in viewport.  | React, JavaScript            |
 | [**Greenvisible Cloak**](https://svnnynior.github.io/greenvisible-cloak-web/) | A Harry Potter-inspired cloak effect website.       | THREE.js, React              |
 | [**The Voice TH Data Visualizer**](https://thevoiceth-app-0fb3e283b67e.herokuapp.com/) | Data visualization of coaches' team picks.          | D3.js, Node.js               |
