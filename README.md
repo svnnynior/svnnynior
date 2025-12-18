@@ -16,7 +16,7 @@ I'm a **Software Engineer** with over 6 years of experience spanning **Web and M
 ### 🛠️ My Tech Toolbox
 
 **Languages**: JavaScript/TypeScript, Python, Scala, Swift, Dart, Java  
-**Frameworks**: React, React Native, Next.js, Electron, Node.js, Vue, Flutter, Svelte
+**Frameworks**: React, React Native, Next.js, Electron, Node.js, Vue, Flutter, Svelte<br/>
 **Data Tools**: Apache Spark, Airflow, dbt, Hadoop  
 **DevOps**: Kubernetes, Docker, Terraform, AWS, GCP  
 **Testing**: Jest, Cypress, Playwright, Cucumber, K6  
